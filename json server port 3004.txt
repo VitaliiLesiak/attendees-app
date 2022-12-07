@@ -1,0 +1,1 @@
+json-server --watch data/persons.json --port 3004

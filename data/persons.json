@@ -1,0 +1,29 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Charlie Kelly",
+      "color": "#2e2e2e"
+    },
+    {
+      "id": 2,
+      "name": "Mac",
+      "color": "red"
+    },
+    {
+      "id": 3,
+      "name": "Frank Reynolds",
+      "color": "lightblue"
+    },
+    {
+      "id": 4,
+      "name": "Deandra Reynolds",
+      "color": "purple"
+    },
+    {
+      "name": "sadsadsa",
+      "color": "yellow",
+      "id": 5
+    }
+  ]
+}

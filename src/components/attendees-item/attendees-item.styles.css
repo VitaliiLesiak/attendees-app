@@ -1,0 +1,44 @@
+.block__item {
+    text-align: center;
+    border-radius: 15px;
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+.about {
+    margin: 20px 0;
+    padding: 30px 0;
+    font-size: 24px;
+    background-color: #fff;
+}
+.nameIs p {
+   margin: 0;
+}
+.nameIs {
+    margin: 10px;
+    color: #fff;
+    
+}
+.nameIs div {
+    font-size: 30px;
+}
+.remove {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.remove__block {
+    background-color: firebrick;
+    display: inline-block;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+.remove__block div {
+    display: flex;
+    align-items: center;
+}
+.remove__block span {
+    font-size: 12px;
+    margin-right: 10px;
+}
